@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Nisha</h1>
 <p align="center">
-  <img src="https://github.com/khushi-rathore/Hacktivators/blob/main/logo.png" alt="Nisha Logo" width="200" height="200">
+  <img src="https://your-image-url.com" alt="Nisha Logo" width="200" height="200">
 </p>
 
 <!-- Description -->
@@ -53,7 +53,16 @@
 <!-- UI -->
 <h2 align="center">UI</h2>
 <p align="center">
-  <img src="https://github.com/khushi-rathore/Hacktivators/blob/main/Screenshot%202024-04-07%20040712.png" alt="Nisha UI" width="600">
+  <img src="path-to-your-screenshot.png" alt="Nisha UI" width="600">
+</p>
+
+<!-- Video -->
+<h2 align="center">Video</h2>
+<p align="center">
+  <video controls width="600" height="auto">
+    <source src="https://github.com/khushi-rathore/Hacktivators/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 <!-- Contributing -->
