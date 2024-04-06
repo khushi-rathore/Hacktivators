@@ -53,7 +53,7 @@
 <!-- UI -->
 <h2 align="center">UI</h2>
 <p align="center">
-  <img src="path-to-your-screenshot.png" alt="Nisha UI" width="600">
+  <img src="https://github.com/khushi-rathore/Hacktivators/blob/main/Screenshot%202024-04-07%20040712.png" alt="Nisha UI" width="600">
 </p>
 
 <!-- Video -->
