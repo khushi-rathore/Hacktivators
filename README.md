@@ -50,6 +50,12 @@
 - `play music`: Enjoy your favorite tunes with Nisha's built-in music player.
 - `exit`: Quit Nisha and end the session.
 
+<!-- UI -->
+<h2 align="center">UI</h2>
+<p align="center">
+  <img src="" alt="Nisha UI" width="600">
+</p>
+
 <!-- Contributing -->
 <h2 align="center">Contributing</h2>
 
@@ -70,4 +76,3 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">For questions or inquiries about Nisha, feel free to contact the project maintainers.</p>
-
