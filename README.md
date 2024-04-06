@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Nisha</h1>
 <p align="center">
-  <img src="https://github.com/khushi-rathore/Hacktivators/blob/main/logo.png" alt="Nisha Logo" width="200" height="200">
+  <img src="https://github.com/khushi-rathore/Hacktivators/blob/main/logo.11.png" alt="Nisha Logo" width="200" height="200">
 </p>
 
 <!-- Description -->
